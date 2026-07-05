@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-labelledby="phTitle phDesc">
+  <title id="phTitle">Imagem indisponível</title>
+  <desc id="phDesc">Placeholder de tênis quando a imagem original não está disponível</desc>
+  <rect width="100%" height="100%" fill="#f4f4f6" />
+  <g transform="translate(40,60)" fill="none" stroke="#c1c7d0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 120c40-40 120-40 180-10s80 10 100 0" />
+    <path d="M20 120c10-30 60-60 120-60s110 30 150 50" />
+    <path d="M40 140c30 10 80 20 140 10s100-20 120-30" stroke-opacity="0.6"/>
+  </g>
+  <text x="50%" y="90%" font-family="Poppins, Arial, sans-serif" font-size="18" fill="#8892a8" text-anchor="middle">Imagem indisponível</text>
+</svg>
